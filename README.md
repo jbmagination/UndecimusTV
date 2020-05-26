@@ -6,7 +6,7 @@ unc0ver jailbreak for tvOS 11.0 - 13.5<br/>
 by [@pwn20wnd](https://twitter.com/Pwn20wnd) & [@sbingner](https://twitter.com/sbingner)<br/>
 UI by [@iOS_App_Dev](https://twitter.com/iOS_App_Dev) & [@HiMyNameIsUbik](https://twitter.com/HiMyNameIsUbik)<br/>
 
-*I did not create this, this is a rehost of the unc0verTV IPA files. If you are looking for the iOS version, please head [here](https://github.com/pwn20wndstuff/Undecimus).*
+*I did not create this, this is a rehost of the unc0ver for TV IPA files. If you are looking for the iOS version, please head [here](https://github.com/pwn20wndstuff/Undecimus).*
 
 ## Getting support
 * Use the built-in diagnostics tool
