@@ -8,6 +8,8 @@ UI by [@iOS_App_Dev](https://twitter.com/iOS_App_Dev) & [@HiMyNameIsUbik](https:
 
 *I did not create this, this is a rehost of the unc0verTV IPA files. If you are looking for the iOS version, please head [here](https://github.com/pwn20wndstuff/Undecimus).*
 
+Releases are available at https://github.com/JBMagination/Unc0verTV/releases
+
 ## Getting support
 * Use the built-in diagnostics tool
 * Tweet [@pwn20wnd](https://twitter.com/Pwn20wnd)
@@ -17,5 +19,3 @@ Unavailable
 
 ## Screenshots
 Unavailable
-
-Releases are available at https://github.com/JBMagination/Unc0verTV/releases
