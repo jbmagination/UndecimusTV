@@ -13,6 +13,7 @@ Releases are available at https://github.com/JBMagination/Unc0verTV/releases
 ## Getting support
 * Use the built-in diagnostics tool
 * Tweet [@pwn20wnd](https://twitter.com/Pwn20wnd)
+* Use the latest version
 
 ## Video tutorial
 Unavailable
