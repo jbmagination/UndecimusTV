@@ -1,6 +1,6 @@
 # unc0verTV
 ### The most advanced jailbreak tool, now available for tvOS
-![unc0ver logo](https://github.com/JBMagination/UndecimusTV/raw/master/u0-tv-shelf_Normal.png)
+![unc0ver logo](https://github.com/JBMagination/UndecimusTV/raw/master/ZZZZFlattenedImage-1.1_Normal.png)
 
 unc0ver jailbreak for tvOS 11.0 - 13.4.5<br/>
 by [@pwn20wnd](https://twitter.com/Pwn20wnd) & [@sbingner](https://twitter.com/sbingner)<br/>
