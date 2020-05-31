@@ -8,7 +8,7 @@ UI by [@iOS_App_Dev](https://twitter.com/iOS_App_Dev) & [@HiMyNameIsUbik](https:
 
 *I did not create this, this is a rehost of the unc0verTV IPA files. If you are looking for the iOS version, please head [here](https://github.com/pwn20wndstuff/Undecimus). For the official tvOS page, head [here](https://unc0ver.dev/tvos).*
 
-Releases are available at https://github.com/JBMagination/Unc0verTV/releases
+Releases are available at https://github.com/JBMagination/UndecimusTV/releases
 
 ## Getting support
 * Use the built-in diagnostics tool
