@@ -15,7 +15,7 @@ Releases are available at https://github.com/JBMagination/UndecimusTV/releases
 * Ensure that you're using the latest version
 * Tweet [@pwn20wnd](https://twitter.com/Pwn20wnd)
 
-## Video tutorial
+## Video tutorial  
 Unavailable
 
 ## Screenshots
